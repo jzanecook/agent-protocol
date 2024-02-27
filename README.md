@@ -124,6 +124,12 @@ If you're an agent developer, you can use the SDK to implement the protocol. You
 - Protocol Plugins
 - Is there anything missing? Please submit an RFC with a proposed feature!
 
+## 💖 Support the Contributors
+
+If you find this project useful, you can show your support by sponsoring some of our core contributors:
+- [@jzanecook](https://x.com/jzanecook) "Ziggy's" [Github Sponsors](https://github.com/sponsors/jzanecook).
+
+
 ## 💬 Public discourse & development
 
 - PRs and issues are welcome!
